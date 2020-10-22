@@ -52,7 +52,7 @@ bool ListInsert(LinkList *L, int i, ElementType e) {
 }
 
 /*删除L的第i个结点，并用e返回其值，L的长度减1*/
-bool ListDelete(LinkList *L, int i, ElementType *e) {
+bool ListDelete(LinkList *L, int i) {
 	LinkList p,q;
 	int j;
 	p = *L;
@@ -67,7 +67,6 @@ bool ListDelete(LinkList *L, int i, ElementType *e) {
 	/*开始删除第i个结点*/
 	q = p->next; 
 	p->next = q->next; // 将q的后继结点赋值给p的后继
-	*e = q->data;
 	free(q);
 	return true;
 }
