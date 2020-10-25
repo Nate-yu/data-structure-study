@@ -5,3 +5,4 @@
 - [栈的顺序存储结构](https://github.com/Nate-yu/data-structure-study/blob/master/linear_list/sq_stack.cpp)
 - [两栈共享空间](https://github.com/Nate-yu/data-structure-study/blob/master/linear_list/sq_double_stack.cpp)
 - [栈的链式存储结构](https://github.com/Nate-yu/data-structure-study/blob/master/linear_list/link_stack.cpp)
+- [循环队列的顺序存储](https://github.com/Nate-yu/data-structure-study/blob/master/linear_list/sq_queue.cpp)
