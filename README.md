@@ -7,3 +7,5 @@
 - [栈的链式存储结构](https://github.com/Nate-yu/data-structure-study/blob/master/linear_list/link_stack.cpp)
 - [循环队列的顺序存储](https://github.com/Nate-yu/data-structure-study/blob/master/linear_list/sq_queue.cpp)
 - [队列的链表结构](https://github.com/Nate-yu/data-structure-study/blob/master/linear_list/link_queue.cpp)
+## 串
+- [查找字符子串位置](https://github.com/Nate-yu/data-structure-study/blob/master/string/compare_string.cpp)
