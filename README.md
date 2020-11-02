@@ -10,3 +10,5 @@
 ## 串
 - [查找字符子串位置](https://github.com/Nate-yu/data-structure-study/blob/master/string/compare_string.cpp)
 - [KMP字符串匹配](https://github.com/Nate-yu/data-structure-study/blob/master/string/kmp.cpp) 
+## 树
+- [树的各种存储结构](https://github.com/Nate-yu/data-structure-study/blob/master/tree/tree_struct.cpp)
